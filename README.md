@@ -14,7 +14,7 @@
 
 ![6](https://user-images.githubusercontent.com/67586773/103789257-cd3a4880-5065-11eb-9fa3-fa708894e382.PNG)
 
-#Responsiveness
+# Responsiveness
 
 ![7](https://user-images.githubusercontent.com/67586773/103789259-cdd2df00-5065-11eb-813e-adb8da298963.PNG)
 
